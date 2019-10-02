@@ -12,7 +12,7 @@ namespace DotNetCoreWebApp.Pages
 
         public void OnGet()
         {
-            Message = "New ASP Dotnet core project created...";
+            Message = "Now Build and release process ready, Lets check in new changes to deploy the code into IIS web server";
         }
     }
 }
